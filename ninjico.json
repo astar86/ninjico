@@ -1,0 +1,18 @@
+{
+	"browser": [
+		"browser", "mozilla-gecko", "sea-monkey", "vivaldi", "presto", "google-chrome", "edge", "firefox", "flock", "ie", "konqueror", "netscape", "maxthon", "opera", "outlook", "camino", "safari", "chromium", "yandex-browser"
+	],
+	"connectivity": [
+		"remote-control", "3g", "4g", "call-center", "wifi-1", "wifi-2", "wifi-3", "nfc", "radar", "usb", "wifi", "zigbee", "bluetooth"
+	],
+	"database": [
+		"mysql", "mongo-db", "oracle", "database", "sql-lite", "sql-server", "firebird"
+	],
+	"weather": [
+		"sun", "wind", "conditioned-air", "thermometer", "thermometer-0", "rain", "snow-crystal", "mist", "umbrella", "splash", "flash", "sea"
+
+	],
+	"web development": [
+		"codepen", "module", "code", "bug", "html5", "css3", "plugin", "ajax", "angular-js", "apache", "api", "bootstrap", "footer", "fork", "header", "anchor", "django", "drupal", "javascript", "joomla", "jquery", "jquery-mobile", "jquery-ui", "jsp", "laravel", "less", "list", "list-numbered", "magento", "display","webmin", "xampp", "sass", "node-js", "open-cart", "responsive", "phpmyadmin", "php", "password", "paragraph", "ninjico", "table", "tab", "semantic-web", "google-wallet", "w3", "wordpress", "xml", "link-juice", "swift", "tomcat", "seo", "widgets", "bonsai", "processwire", "prestashop", "css-wizardry", "php-elephant", "compass", "typo3", "shopify"
+	]
+}

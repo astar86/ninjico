@@ -5,10 +5,16 @@ Ninjico Framework is a glyphicons set for scalable vector graphics on websites w
 
 ## List of Files
 The following files are included in the framework:
-- LICENSE: License file;
-- README.me: this file;
+- LICENSE: license file;
 - ninjico.css: CSS file to include in your documents;
-- ninjico.json: Json file with the complete list of glyphicons;
+- ninjico.eot: font file for Microsoft Internet Explorer;
+- ninjico.json: json file with the complete list of glyphicons;
+- ninjico.min.css: minimized CSS file to include in your documents;
+- ninjico.svg: font file for Legacy iOS;
+- ninjico.ttf: font file for Safari, Android, iOS;
+- ninjico.woff: font file for modern browsers;
+- ninjico.woff2: font file for super modern browsers;
+- README.me: this file;
 
 ## Inclusion
 To include the framework in the HTML document, download the package in ninjico folder and call him through the ```<link>``` tag into the header of HTML. For example:
@@ -29,7 +35,7 @@ To include the framework in the HTML document, download the package in ninjico f
 ```
 
 ## Use
-The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements ::before and ::after. So you need to insert a ```<i>``` tag with classes nj and nj-*, where the * symbol indicates the name of the glyphicon. The ```<i>``` tag must have the ```<span>``` tag as the only child. For example:
+The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements ::before and ::after. So you need to insert a ```<i>``` tag with classes nj and nj-*, where the * symbol indicates the name of the glyphicon. For performance reasons, all glyphicons require a nj base class and individual class. The ```<i>``` tag must have the ```<span>``` tag as the only child. For example:
 
 ```
 <i class="nj nj-ninjico"><span></span></i>
@@ -64,8 +70,12 @@ You can even color the glyphicons by adding the nj-color-* class, where the * sy
 - nj-color-critic
 - nj-color-fatal
 
+## Browser Support
+Ninjico Framework is supported in all modern browsers (Desktop and Mobile). Any Ninjico Framework problem in modern browsers should be reported as a bug.
+
 ## License
-The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package and please add it to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ninjico/license.txt)
+The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package and please add it to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ecoSystem/FONT/ninjico/LICENSE)
+All brand glyphicons are trademarks of their respective owners, the use of these glyphicons in your website does not indicate endorsement of the trademark holder and you can use brand glyphicons only to represent the company or product to which they refer. Please do not use these glyphicons for your logos. Thank you.
 
 ## Author
 - Email: capasso.roberto.86@darthdesigner.com

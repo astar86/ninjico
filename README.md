@@ -1,7 +1,7 @@
 # [Ninjico Framework v.0.0.0](http://www.darthdesigner.com/ninjico.php)
 ### The first font and CSS framework with multicolored glyphicons
 
-Ninjico Framework is a glyphicons set for scalable vector graphics on websites where it is possible to color the icons sections. The Framework is created and maintained by [Roberto Capasso](http://www.darthdesigner.com)
+Ninjico Framework is a glyphicons set for scalable vector graphics on websites where it is possible to color the icons sections. The Framework is created and maintained by [Roberto Capasso](http://www.darthdesigner.com).
 
 ## List of Files
 The following files are included in the framework:
@@ -14,7 +14,7 @@ The following files are included in the framework:
 - ninjico.ttf: font file for Safari, Android, iOS;
 - ninjico.woff: font file for modern browsers;
 - ninjico.woff2: font file for super modern browsers;
-- README.me: this file;
+- README.me: this file.
 
 ## Inclusion
 To include the framework in the HTML document, download the package in ninjico folder and call him through the ```<link>``` tag into the header of HTML. For example:
@@ -77,8 +77,7 @@ You can find a [demo](http://www.darthdesigner.com/ninjico.php) on the Ninjico F
 Ninjico Framework is supported in all modern browsers (Desktop and Mobile). Any Ninjico Framework problem in modern browsers should be reported as a bug.
 
 ## License
-The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package and please add it to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ecoSystem/FONT/ninjico/LICENSE)
-All brand glyphicons are trademarks of their respective owners, the use of these glyphicons in your website does not indicate endorsement of the trademark holder and you can use brand glyphicons only to represent the company or product to which they refer. Please do not use these glyphicons for your logos. Thank you.
+The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package and please add it to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ecoSystem/FONT/ninjico/LICENSE). All brand glyphicons are trademarks of their respective owners, the use of these glyphicons in your website does not indicate endorsement of the trademark holder and you can use brand glyphicons only to represent the company or product to which they refer. Please do not use these glyphicons for your logos. Thank you.
 
 ## Author
 - Email: capasso.roberto.86@darthdesigner.com

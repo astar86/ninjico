@@ -70,6 +70,9 @@ You can even color the glyphicons by adding the nj-color-* class, where the * sy
 - nj-color-critic
 - nj-color-fatal
 
+##Demo
+You can find a [demo](http://www.darthdesigner.com/ninjico.php) on the Ninjico Framework web page.
+
 ## Browser Support
 Ninjico Framework is supported in all modern browsers (Desktop and Mobile). Any Ninjico Framework problem in modern browsers should be reported as a bug.
 

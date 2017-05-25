@@ -1139,7 +1139,7 @@ _:-ms-lang(x), .nj span:before {
 .nj-mongo-db.nj-color-multi:hover {
   background: #4ba647;
 }
-.nj-maxthon.nj-color-multi span:before, .nj-maxthon.nj-color-multi:hover span:before, .nj-sea-monkey.nj-color-multi span:before, .nj-sea-monkey.nj-color-multi:hover span:before {
+.nj-maxthon.nj-color-multi span:before, .nj-maxthon.nj-color-multi:hover span:before, .nj-seamonkey.nj-color-multi span:before, .nj-seamonkey.nj-color-multi:hover span:before {
   color: #aad2f0;
 }
 .nj-maxthon.nj-color-multi:before {
@@ -1148,10 +1148,10 @@ _:-ms-lang(x), .nj span:before {
 .nj-maxthon.nj-color-multi:hover {
   background: #3178bd;
 }
-.nj-sea-monkey.nj-color-multi:before {
+.nj-seamonkey.nj-color-multi:before {
   color: #3d43ad;
 }
-.nj-sea-monkey.nj-color-multi:hover {
+.nj-seamonkey.nj-color-multi:hover {
   background: #3d43ad;
 }
 .nj-nvidia.nj-color-multi:before {
@@ -1880,9 +1880,6 @@ _:-ms-lang(x), .nj span:before {
 .nj-safe:before {
   content: "\e0f6";
 }
-.nj-vivaldi:before {
-  content: "\e0f7";
-}
 .nj-bed-single:before {
   content: "\e0f8";
 }
@@ -2066,12 +2063,6 @@ _:-ms-lang(x), .nj span:before {
 .nj-drupal:before {
   content: "\e13c";
 }
-.nj-browser:before {
-  content: "\e13d";
-}
-.nj-edge:before {
-  content: "\e13f";
-}
 .nj-electronic-arts:before {
   content: "\e140";
 }
@@ -2095,9 +2086,6 @@ _:-ms-lang(x), .nj span:before {
 }
 .nj-fingerprint:before {
   content: "\e147";
-}
-.nj-firebird:before {
-  content: "\e148";
 }
 .nj-flowchart:before {
   content: "\e14b";
@@ -2441,9 +2429,6 @@ _:-ms-lang(x), .nj span:before {
 .nj-xbox:before {
   content: "\e1d3";
 }
-.nj-wordpress:before {
-  content: "\e1d5";
-}
 .nj-w3:before {
   content: "\e1d6";
 }
@@ -2485,9 +2470,6 @@ _:-ms-lang(x), .nj span:before {
 }
 .nj-ping-pong:before {
   content: "\e1ed";
-}
-.nj-paragraph:before {
-  content: "\e1ee";
 }
 .nj-php:before {
   content: "\e1f0";
@@ -3050,7 +3032,7 @@ _:-ms-lang(x), .nj span:before {
 .nj-compass-draw:before {
   content: "\e288";
 }
-.nj-safari:before, .nj-sea-monkey:before {
+.nj-safari:before, .nj-seamonkey:before {
   content: "\e289";
 }
 .nj-safari span:before {
@@ -3281,14 +3263,8 @@ _:-ms-lang(x), .nj span:before {
 .nj-firefox:before, .nj-camino:before {
   content: "\e149";
 }
-.nj-firefox span:before {
-  content: "\e2ad";
-}
 .nj-flock span:before {
   content: "\e26a";
-}
-.nj-sea-monkey span:before {
-  content: "\e0f5";
 }
 .nj-flock:before {
   content: "\e14a";
@@ -3301,4 +3277,28 @@ _:-ms-lang(x), .nj span:before {
 }
 .nj-yandex-browser span:before {
   content: "\e2ae";
+}
+.nj-browser:before {
+  content: "\e13d";
+}
+.nj-edge:before {
+  content: "\e13f";
+}
+.nj-firefox span:before {
+  content: "\e2ad";
+}
+.nj-firebird:before {
+  content: "\e148";
+}
+.nj-seamonkey span:before {
+  content: "\e0f5";
+}
+.nj-wordpress:before {
+  content: "\e1d5";
+}
+.nj-paragraph:before {
+  content: "\e1ee";
+}
+.nj-vivaldi:before {
+  content: "\e2af";
 }

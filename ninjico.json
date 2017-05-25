@@ -1,6 +1,6 @@
 {
 	"browser": [
-		"browser", "mozilla-gecko", "sea-monkey", "vivaldi", "presto", "google-chrome", "edge", "firefox", "flock", "ie", "konqueror", "netscape", "maxthon", "opera", "outlook", "camino", "safari", "chromium", "yandex-browser"
+		"browser", "mozilla-gecko", "seamonkey", "vivaldi", "presto", "google-chrome", "edge", "firefox", "flock", "ie", "konqueror", "netscape", "maxthon", "opera", "outlook", "camino", "safari", "chromium", "yandex-browser"
 	],
 	"connectivity": [
 		"remote-control", "3g", "4g", "call-center", "wifi-1", "wifi-2", "wifi-3", "nfc", "radar", "usb", "wifi", "zigbee", "bluetooth"

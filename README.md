@@ -19,7 +19,8 @@ The following files are included in the framework:
 ## Inclusion
 To include the framework in the HTML document, download the package in ninjico folder and call him through the ```<link>``` tag into the header of HTML. For example:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />

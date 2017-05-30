@@ -17,7 +17,7 @@ The following files are included in the framework:
 - README.me: this file.
 
 ## Inclusion
-To include the framework in the HTML document, download the package in the ninjico folder and call it through the ```<link>``` tag into the header of HTML. For example:
+To include the framework in the HTML document, download the package in the ninjico folder and call it through the `<link>` tag into the header of HTML. For example:
 
 ```<!DOCTYPE html>
 <html lang="en">
@@ -35,13 +35,13 @@ To include the framework in the HTML document, download the package in the ninji
 ```
 
 ## Use
-The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements ```::before``` and ```::after```. So you need to insert a ```<i>``` tag with classes ```nj``` and ```nj-*```, where the * symbol indicates the name of the glyphicon. For performance reasons, all glyphicons require a ```nj``` base class and an individual class. The ```<i>``` tag must have the ```<span>``` tag as the only child. For example:
+The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements `::before` and `::after`. So you need to insert a `<i>` tag with classes `nj` and `nj-*`, where the * symbol indicates the name of the glyphicon. For performance reasons, all glyphicons require a `nj` base class and an individual class. The `<i>` tag must have the `<span>` tag as the only child. For example:
 
 ```
 <i class="nj nj-ninjico"><span></span></i>
 ```
 
-The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the ninjico.json file included in the package. You can resize the glyphicons by adding the ```nj-size-*``` class, where the * symbol indicates the size. By default, each icon has the class ```nj-size-md```. The size is reported on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the list below:
+The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the ninjico.json file included in the package. You can resize the glyphicons by adding the `nj-size-*` class, where the * symbol indicates the size. By default, each icon has the class `nj-size-md`. The size is reported on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the list below:
 - nj-size-xs
 - nj-size-sm
 - nj-size-md
@@ -51,7 +51,7 @@ The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesign
 - nj-size-3xl
 - nj-size-4xl
 
-You can even color the glyphicons by adding the ```nj-color-*``` class, where the * symbol indicates the color type. By default each icon has the class ```nj-color-mono```. The coloring type is listed on the site or in the list below:
+You can even color the glyphicons by adding the `nj-color-*` class, where the * symbol indicates the color type. By default each icon has the class `nj-color-mono`. The coloring type is listed on the site or in the list below:
 - nj-color-mono
 - nj-color-multi
 - nj-color-primary

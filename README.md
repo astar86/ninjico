@@ -17,10 +17,9 @@ The following files are included in the framework:
 - README.me: this file.
 
 ## Inclusion
-To include the framework in the HTML document, download the package in ninjico folder and call him through the ```<link>``` tag into the header of HTML. For example:
+To include the framework in the HTML document, download the package in the ninjico folder and call it through the ```<link>``` tag into the header of HTML. For example:
 
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -36,13 +35,13 @@ To include the framework in the HTML document, download the package in ninjico f
 ```
 
 ## Use
-The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements ::before and ::after. So you need to insert a ```<i>``` tag with classes nj and nj-*, where the * symbol indicates the name of the glyphicon. For performance reasons, all glyphicons require a nj base class and individual class. The ```<i>``` tag must have the ```<span>``` tag as the only child. For example:
+The glyphicons are divided into maximum 4 sections, added to the HTML document using the CSS pseudo-elements ```::before``` and ```::after```. So you need to insert a ```<i>``` tag with classes ```nj``` and ```nj-*```, where the * symbol indicates the name of the glyphicon. For performance reasons, all glyphicons require a ```nj``` base class and an individual class. The ```<i>``` tag must have the ```<span>``` tag as the only child. For example:
 
 ```
 <i class="nj nj-ninjico"><span></span></i>
 ```
 
-The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the ninjico.json file included in the package. You can resize the glyphicons by adding the nj-size-* class, where the * symbol indicates the size. By default, each icon has the class nj-size-md. The size is reported on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the list below:
+The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the ninjico.json file included in the package. You can resize the glyphicons by adding the ```nj-size-*``` class, where the * symbol indicates the size. By default, each icon has the class ```nj-size-md```. The size is reported on [darthdesigner.com](http://www.darthdesigner.com/ninjico.php) or in the list below:
 - nj-size-xs
 - nj-size-sm
 - nj-size-md
@@ -52,7 +51,7 @@ The complete list of glyphicons is on [darthdesigner.com](http://www.darthdesign
 - nj-size-3xl
 - nj-size-4xl
 
-You can even color the glyphicons by adding the nj-color-* class, where the * symbol indicates the color type. By default each icon has the class nj-color-mono. The coloring type is listed on the site or in the list below:
+You can even color the glyphicons by adding the ```nj-color-*``` class, where the * symbol indicates the color type. By default each icon has the class ```nj-color-mono```. The coloring type is listed on the site or in the list below:
 - nj-color-mono
 - nj-color-multi
 - nj-color-primary
@@ -78,7 +77,7 @@ You can find a [demo](http://www.darthdesigner.com/ninjico.php) on the Ninjico F
 Ninjico Framework is supported in all modern browsers (Desktop and Mobile). Any Ninjico Framework problem in modern browsers should be reported as a bug.
 
 ## License
-The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package and please add it to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ecoSystem/FONT/ninjico/LICENSE). All brand glyphicons are trademarks of their respective owners, the use of these glyphicons in your website does not indicate endorsement of the trademark holder and you can use brand glyphicons only to represent the company or product to which they refer. Please do not use these glyphicons for your logos. Thank you.
+The Ninjico Framework is licensed under the General Public License v3.0. The license file is included in the package. Please, add the license to the projects where this Framework is used. The license is also available on its creator's site [darthdesigner.com](http://www.darthdesigner.com/ecoSystem/FONT/ninjico/LICENSE). All brand glyphicons are trademarks of their respective owners, the use of these glyphicons in your website does not indicate endorsement of the trademark holder and you can use brand glyphicons only to represent the company or product to which they refer. Please do not use these glyphicons for your logos. Thank you.
 
 ## Author
 - Email: capasso.roberto.86@darthdesigner.com

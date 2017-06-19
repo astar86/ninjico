@@ -85,4 +85,6 @@ The Ninjico Framework is licensed under the General Public License v3.0. The lic
 - [Google+](https://plus.google.com/u/0/+RobertoCapasso)
 - [Linkedin](https://www.linkedin.com/in/roberto-capasso-300861119/)
 - [GitHub](https://github.com/astar86)
+- [CodePen](https://codepen.io/astar86/)
+- [JSFiddle](https://jsfiddle.net/user/dashboard/)
 
